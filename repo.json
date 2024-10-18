@@ -1,7 +1,7 @@
 {
-  "name": "EeveeSpotify",
-  "identifier": "com.eevee.source",
-  "subtitle": "EeveeSpotify",
+  "name": "Byeoon's Trusted Repositories",
+  "identifier": "com.byeoon.repolist",
+  "subtitle": "List of tested + trusted IPAs. 100% Safe",
   "apps": [
     {
       "name": "EeveeSpotify",
