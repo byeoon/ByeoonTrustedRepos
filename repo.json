@@ -1,7 +1,7 @@
 {
   "name": "Byeoon's Trusted Repositories",
   "identifier": "com.byeoon.repolist",
-  "subtitle": "List of tested + trusted IPAs. 100% Safe",
+  "subtitle": "Personal list of tested and trusted IPAs.",
   "apps": [
     {
       "name": "EeveeSpotify",
