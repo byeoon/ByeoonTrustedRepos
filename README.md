@@ -1,4 +1,4 @@
-# ByeoonTrustedRepos
-My personal repository list for sideloading services.
+# Byeoon's Trusted Repo List
+My personal repository list for sideloading services. Everything in this list is tested by me and is confirmed to be safe.  
 
-https://raw.githubusercontent.com/byeoon/ByeoonTrustedRepos/refs/heads/master/repo.json
+Copy and Paste: https://raw.githubusercontent.com/byeoon/ByeoonTrustedRepos/refs/heads/master/repo.json
